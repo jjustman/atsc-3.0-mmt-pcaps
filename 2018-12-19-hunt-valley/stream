@@ -1,0 +1,5 @@
+while :
+do
+ bittwist -i enp0s6 2018-12-19-mmt-cap-recalc.pcap -v
+ 
+done
