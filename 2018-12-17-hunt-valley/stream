@@ -1,0 +1,4 @@
+while :
+do
+ bittwist -i enp0s6 2018-12-17-mmt-airwavz-recalc.pcap -v
+done
