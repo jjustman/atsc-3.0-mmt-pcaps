@@ -1,0 +1,4 @@
+while :
+do
+ sudo bittwist -i enp0s6 2018-12-17-mmt-airwavz-recalc-extract-3506259-3515520.pcap  -v
+done
