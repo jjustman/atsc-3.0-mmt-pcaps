@@ -9,3 +9,6 @@
 2019-05-07-4mmt-720p-647mhz-good.pcap filter=lfs diff=lfs merge=lfs -text
 2019.05.18-edc-300frame-gop-isolated.pcap filter=lfs diff=lfs merge=lfs -text
 4plp_dektec.pcap filter=lfs diff=lfs merge=lfs -text
+2019-05-01-dc-STLTP.pcap filter=lfs diff=lfs merge=lfs -text
+2019-05-06-SERVICE-19-ONLY-10s-OOO-long-gop-mmt.pcap filter=lfs diff=lfs merge=lfs -text
+2019-05-06-dual-service-18-19-10s-ooo-long-gop-MMT.pcap filter=lfs diff=lfs merge=lfs -text
